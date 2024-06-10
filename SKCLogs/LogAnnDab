@@ -1,0 +1,56 @@
+conta@Legolas MINGW64 ~/Documents/git/repo_250524 (main)
+$ git log
+commit dbb5e558464721fa67ac5aa958e085aacb2bea75 (HEAD -> main, origin/main, data_fix)
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 11:00:20 2024 +0200
+
+    Modify myConflicts.txt in data_fix branch
+
+commit 900e1fb21af4376a7c2c29738a2b37cee7e123d6
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 10:58:39 2024 +0200
+
+    Modify myConflicts.txt in main branch
+
+commit 3dd33ad42966eb1fb52ee98e4abd8d4102584697
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 10:57:38 2024 +0200
+
+    Add myConflicts.txt with initial content
+
+commit 32282d76e1855539b437d92a49ce1df4d2a47602
+Merge: 805fd9b 6f0405d
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 13:22:31 2024 +0200
+
+    Merge branch 'new_feature'
+
+commit 805fd9b3fdce3044833eddf134e1c5a80cff8254
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 13:12:47 2024 +0200
+
+    Dodano plik config.txt z nową treścią oraz zmodyfikowano plik readme.txt
+
+commit 6f0405d3cd1399c33ed14f7d9d4652d663b1657b (new_feature)
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:55:03 2024 +0200
+
+    Zmodyfikowano plik new_feature.txt
+
+commit dcd40ad25f3a242036a0447d232e376fa7e02b40
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:47:45 2024 +0200
+
+    Dodano plik new_feature z nową treścią
+
+commit 43f9f0834117ecde1ea5b22b4fdfd6cb885c0a93
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:43:11 2024 +0200
+
+    Dodano plik new_feature z nową treścią
+
+commit 359f95a4432607f16148d17114c45b5e2edba929
+Author: Ania <anna.dabrowska@mail.ru>
+Date:   Sat May 25 12:31:14 2024 +0200
+
+    Dodano plik readme.txt z imieniem i nazwiskiem

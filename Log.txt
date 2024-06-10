@@ -1,105 +1,57 @@
+conta@Legolas MINGW64 ~/Documents/git/repo_250524 (main)
 $ git log
-commit 66fadf917bed996e6a3206dece9f327cfa1b8125 (HEAD -> main)
-Merge: c2f3ac4 a1e5ef2
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 10:49:09 2024 +0200
+commit dbb5e558464721fa67ac5aa958e085aacb2bea75 (HEAD -> main, origin/main, data_fix)
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 11:00:20 2024 +0200
 
-    resolved conflicts
+    Modify myConflicts.txt in data_fix branch
 
-commit a1e5ef263e60e154a46cacb529c9e6b4f8d1d43a (data_fix)
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 10:38:26 2024 +0200
+commit 900e1fb21af4376a7c2c29738a2b37cee7e123d6
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 10:58:39 2024 +0200
 
-    modified myConflicts.txt
+    Modify myConflicts.txt in main branch
 
-commit c2f3ac4fa51c290374cdb65988a65e2dff064961
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 10:35:30 2024 +0200
+commit 3dd33ad42966eb1fb52ee98e4abd8d4102584697
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat Jun 8 10:57:38 2024 +0200
 
-    modified myConflicts.txt
+    Add myConflicts.txt with initial content
 
-commit fa1b144e3339c0142c92a619c4458e3e9f276c84
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Sat Jun 8 10:32:23 2024 +0200
+commit 32282d76e1855539b437d92a49ce1df4d2a47602
+Merge: 805fd9b 6f0405d
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 13:22:31 2024 +0200
 
-    added myConflicts.txt
+    Merge branch 'new_feature'
 
-commit 6f9fb2ec999329ef3e285f70c50291fc60a57fe7
-Merge: 39c82c8 95092c5
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Fri Jun 7 14:55:53 2024 +0200
+commit 805fd9b3fdce3044833eddf134e1c5a80cff8254
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 13:12:47 2024 +0200
 
-    resolved conflicts
+    Dodano plik config.txt z nową treścią oraz zmodyfikowano plik readme.txt
 
-commit 39c82c89b78e30407182ada437397dd5127036dd
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Fri Jun 7 14:54:14 2024 +0200
+commit 6f0405d3cd1399c33ed14f7d9d4652d663b1657b (new_feature)
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:55:03 2024 +0200
 
-    modified Readem
+    Zmodyfikowano plik new_feature.txt
 
-commit 95092c5b04b610a8e9793d4ae79e9cd85a7db20a (bug_fix)
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Fri Jun 7 14:53:25 2024 +0200
+commit dcd40ad25f3a242036a0447d232e376fa7e02b40
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:47:45 2024 +0200
 
-    modified Readme
+    Dodano plik new_feature z nową treścią
 
-commit 0210aed340cc44ea559df3eaca3c1e493399dc86 (origin/main)
-Merge: 0803a4f a684e7f
-Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
-Date:   Fri Jun 7 14:36:01 2024 +0200
+commit 43f9f0834117ecde1ea5b22b4fdfd6cb885c0a93
+Author: Ania <contantia.kot@gmail.com>
+Date:   Sat May 25 12:43:11 2024 +0200
 
-    added new file
+    Dodano plik new_feature z nową treścią
 
-commit 0803a4f612d93dc3d1ad6787ca5fb60ead4d25b8
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 13:11:25 2024 +0200
+commit 359f95a4432607f16148d17114c45b5e2edba929
+Author: Ania <anna.dabrowska@mail.ru>
+Date:   Sat May 25 12:31:14 2024 +0200
 
-    Added Config.txt and modified Readme.txt
+    Dodano plik readme.txt z imieniem i nazwiskiem
 
-commit fbbe6f1bd3eb49f2effa3f9939b9a6e94b21bf68
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 13:01:39 2024 +0200
-
-    Added fix.txt file
-
-commit a684e7fc0d134a0c86ce3e4e78babc980c1b3f0d (new_branch)
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:51:55 2024 +0200
-
-    Modified new_feature.txt file
-
-commit 11a0ae0af562adfd49f3868477cf6e3608b31ace
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:43:25 2024 +0200
-
-    Added new_feature.txt file
-
-commit c6823a1f791e2229674393e2b0ecd43fe237f66d
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:28:42 2024 +0200
-
-    Added Readme.txt file
-(END)
-commit fbbe6f1bd3eb49f2effa3f9939b9a6e94b21bf68
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 13:01:39 2024 +0200
-
-    Added fix.txt file
-
-commit a684e7fc0d134a0c86ce3e4e78babc980c1b3f0d (new_branch)
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:51:55 2024 +0200
-
-    Modified new_feature.txt file
-
-commit 11a0ae0af562adfd49f3868477cf6e3608b31ace
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:43:25 2024 +0200
-
-    Added new_feature.txt file
-
-commit c6823a1f791e2229674393e2b0ecd43fe237f66d
-Author: ARTUR MOSAKOWSKI <artrmosakowski@sample.com>
-Date:   Sat May 25 12:28:42 2024 +0200
-
-    Added Readme.txt file

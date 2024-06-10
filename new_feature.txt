@@ -1,2 +1,2 @@
-some sample text
-modified new_feature file
+To jest plik z tekstem, jest bardzo fajny, lubię pliki z tekstem
+

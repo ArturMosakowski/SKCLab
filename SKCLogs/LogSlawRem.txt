@@ -1,0 +1,75 @@
+commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 12:14:31 2024 +0200
+
+    added SKCLogs folder
+
+commit 69411152cadceca41b77b21461954bc77346c0e7
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:30:49 2024 +0200
+
+    added Log.txt
+
+commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:20:26 2024 +0200
+
+    init
+    
+    init
+commit ab1830053923ae9466d160d43845969fb2ce4fbb
+Author: Sławomir Rembiesa <rembies@o2.pl>
+Date:   Sun Jun 9 13:50:05 2024 +0200
+
+    add new file with logs
+
+commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 12:14:31 2024 +0200
+
+    added SKCLogs folder
+
+commit 69411152cadceca41b77b21461954bc77346c0e7
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:30:49 2024 +0200
+
+    added Log.txt
+
+commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:20:26 2024 +0200
+
+    init
+    
+    init
+commit effbf86f9e01c6656b7218cce741a5af7b55b932
+Author: Sławomir Rembiesa <rembies@o2.pl>
+Date:   Sun Jun 9 13:50:38 2024 +0200
+
+    modify new log file
+
+commit ab1830053923ae9466d160d43845969fb2ce4fbb
+Author: Sławomir Rembiesa <rembies@o2.pl>
+Date:   Sun Jun 9 13:50:05 2024 +0200
+
+    add new file with logs
+
+commit 81827b958a7d6d8fcf2eeef80bf9cf32d4e3645c
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 12:14:31 2024 +0200
+
+    added SKCLogs folder
+
+commit 69411152cadceca41b77b21461954bc77346c0e7
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:30:49 2024 +0200
+
+    added Log.txt
+
+commit 5513b9563291f5977cb5a7c22398d7e5cfe92d9a
+Author: Artur Mosakowski <46219309+ArturMosakowski@users.noreply.github.com>
+Date:   Sat Jun 8 11:20:26 2024 +0200
+
+    init
+    
+    init
